@@ -1,0 +1,21 @@
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z11vector_diffPiS_S_i' for 'sm_75'
+ptxas info    : Function properties for _Z11vector_diffPiS_S_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 8 registers, 380 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13vector_assignPiS_i' for 'sm_75'
+ptxas info    : Function properties for _Z13vector_assignPiS_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 8 registers, 372 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z11vector_initPiS_ii' for 'sm_75'
+ptxas info    : Function properties for _Z11vector_initPiS_ii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 12 registers, 376 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z23ell_min_dot_plus_kerneliiPiS_S_S_' for 'sm_75'
+ptxas info    : Function properties for _Z23ell_min_dot_plus_kerneliiPiS_S_S_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 64 registers, 392 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z24spmv_min_dot_plus_kerneliPiS_S_S_S_' for 'sm_75'
+ptxas info    : Function properties for _Z24spmv_min_dot_plus_kerneliPiS_S_S_S_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 53 registers, 400 bytes cmem[0]

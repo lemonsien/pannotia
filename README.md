@@ -1,6 +1,6 @@
 # pannotia
 ## Get dataset
-some graph exceed the size limitation of github. Thus, need to be download elsewhere by datasets/get-data.sh
+Some graph exceed the size limitation of github. Thus, need to be download elsewhere by datasets/get-data.sh
 
 ## Run command
 ```
@@ -11,7 +11,10 @@ some graph exceed the size limitation of github. Thus, need to be download elsew
 ./bc ../datasets/coAuthorsDBLP.graph 1
 ```
 
-## modification
-* fix makefile and depricated API  bug
-* make the input file format of each benchmark consistent
-* only run a few iterations in order to get the execution time of the target kernel(irregularity)
+## Modification
+* Fix makefile and depricated API  bug
+* Make the input file format of each benchmark consistent
+* Only run a few iterations in order to get the execution time of the target kernel(irregularity)
+
+## Acknowledgement
+Original code is from [gpgpu-sim benchmark](https://github.com/gpgpu-sim/gpgpu-sim_simulations/tree/master/benchmarks/src/cuda/pannotia)
